@@ -1,0 +1,8 @@
+* 3fbd788 feature: add feature.txt
+* b75318c main: add main.txt
+*   1381bfb merge: preserve both line 2 changes
+|\  
+| * 8e6f74d feature: update line 2
+* | 7846ecc main: update line 2
+|/  
+* eaaba3e initial commit

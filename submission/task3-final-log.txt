@@ -1,0 +1,14 @@
+*   6d06b10 Merge pull request #1 from mikhail2574/tidy
+|\  
+| * 53d03a1 docs: add usage instructions
+| * 5d5591e config: define application settings
+| * d4ddbd3 docs: add project notes
+|/  
+* 3fbd788 feature: add feature.txt
+* b75318c main: add main.txt
+*   1381bfb merge: preserve both line 2 changes
+|\  
+| * 8e6f74d feature: update line 2
+* | 7846ecc main: update line 2
+|/  
+* eaaba3e initial commit

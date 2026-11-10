@@ -1,0 +1,6 @@
+*   1381bfb merge: preserve both line 2 changes
+|\  
+| * 8e6f74d feature: update line 2
+* | 7846ecc main: update line 2
+|/  
+* eaaba3e initial commit
